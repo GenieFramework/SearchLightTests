@@ -1,0 +1,13 @@
+name = "SearchLightTests"
+uuid = "93b57bef-2b2a-441b-8bc0-123e8b6693a7"
+authors = ["Adrian Salceanu <adrian.salceanu@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
